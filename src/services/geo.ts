@@ -16,3 +16,6 @@ export async function getCoordinatesFromZip(zip: string): Promise<Coordinates> {
     city: place["place name"],
   };
 }
+
+
+
