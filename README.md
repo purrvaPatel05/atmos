@@ -62,6 +62,7 @@ www.typescriptlang.org: I used it for helping me write the correct syntax.
 express.js: I used them to reference the routing part and the setup.
 open-meteo.com: Referenced for respose format.
 api.zippopotam.us: referenced for zip code lookup endpoint. 
+https://jestjs.io/: For helping me with writing tests and the correct syntax. 
 
 
 
